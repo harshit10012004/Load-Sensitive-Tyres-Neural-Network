@@ -1,9 +1,6 @@
-# Load-Sensitive-Tyres-Neural-Network
-Making a Smarter Tire Model for Racing Simulations in iracing
-
-
 # 🏎️ Load‑Sensitive Tyres Neural Network
 ### *Closing the 0.3s qualifying gap with AI‑powered tyre modelling*
+Making a Smarter Tire Model for Racing Simulations in iracing
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
